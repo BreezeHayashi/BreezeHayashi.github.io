@@ -1,0 +1,20 @@
+body {
+    background-color: #022f3a;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+h1 {
+    color: lightblue;
+}
+
+h2 {
+    margin-top: 30px;
+    color: #aaa;
+}
